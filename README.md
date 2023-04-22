@@ -20,5 +20,5 @@ Install libraries
 ## Run
 ```bash
   # Running Scraper File..
-  Wikipedia Web Scraping.ipynb
+  Project_Wikipedia_Web_Scraping.ipynb
 ```
